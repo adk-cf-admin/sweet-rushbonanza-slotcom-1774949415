@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#d88bd3",
+            "lang-select-color": "#222829",
+            "bg-light": "#d88bd3",
+            "welcome-bonus-bg": "#d88bd3",
+            "top-games-hover-fg": "#000000",
+            "main-bg": "#efd1ee",
+            "text": "#000000",
+            "text-black": "#000000",
+            "table-head": "#3471cb",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#3471cb",
+            "yellow": "#af38ac",
+            "yellow-button": "#3471cb",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#E1A6DE",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000000",
+            "providers-back": "#d88bd3",
+            "faq-label": "#d88bd3",
+            "bg-footer": "#d88bd3",
+            "copyright": "#e7e7d5",
+            "starColor": "#3471cb",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5408"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5409",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Sweet Rush Bonanza Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5410",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Sweet Rush Bonanza"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Sweet Rush Bonanza",
+                    "title": "Sweet Rush Bonanza Slot — Play Online | 5000x Win",
+                    "description": "Play Sweet Rush Bonanza by Pragmatic Play — the ultimate candy slot with Pay Anywhere mechanics, 96.5% RTP & massive 5000x max win. Join now!",
+                    "canonical": "sweet-rushbonanza-slot.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5411",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "sweet-rushbonanza-slot.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5412"
+                },
+                "hero": {
+                    "title": "Play Sweet Rush Bonanza Slot Online",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5413",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -6,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5414",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Sweet Rush Bonanza by Pragmatic Play merges two iconic candy slots into one electrifying experience. With certified 96.5% RTP, Pay Anywhere mechanics, and a multiplier grid that snowballs every tumble, this high-volatility slot delivers premium online entertainment:",
+                    "items": [
+                        "Pragmatic Play certified slot with 96.5% RTP & fair-play RNG",
+                        "6x5 Pay Anywhere grid — wins from 8+ matching symbols anywhere",
+                        "Multiplier Spots up to x128, stacking across tumble sequences",
+                        "Max win 5,000x stake — bets from €0.20 to €240 per spin",
+                        "Bonus Buy available: Free Spins for 100x, Super Free Spins 500x",
+                        "HTML5 mobile-ready technology — play on any device, anytime"
+                    ],
+                    "advantagesAfterText": "Sweet Rush Bonanza is officially certified by Pragmatic Play with independently tested RNG for provably fair outcomes. Whether you play on desktop or mobile, every spin delivers the same top-quality candy-slot experience.",
+                    "knowMore": "Know more",
+                    "appTitle": "Sweet Rush Bonanza App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5415",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Sweet Rush Bonanza App",
+                    "mobileGooglePlayImageTitle": "Sweet Rush Bonanza App",
+                    "mobileIosImageTitle": "Sweet Rush Bonanza App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Sweet Rush Bonanza Slot",
+                        "description1": "Sweet Rush Bonanza is a Pragmatic Play video slot that fuses two iconic titles — Sweet Bonanza and Sugar Rush. Built on a 6x5 Pay Anywhere grid, it delivers high-volatility thrills with a certified 96.5% RTP for online players worldwide.",
+                        "items": [
+                            "Developed by Pragmatic Play, industry-leading slot provider",
+                            "Released in September 2025 — HTML5 & JS technology",
+                            "Pay Anywhere mechanics merged with multiplier grid system",
+                            "Independently tested RNG ensuring certified fair play"
+                        ],
+                        "description2": "Sweet Rush Bonanza runs on certified HTML5 technology with RNG outcomes independently tested for fairness. The slot offers three RTP settings — 94.5%, 95.5%, or 96.5% — depending on casino configuration, ensuring transparent and accountable gameplay.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5416",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We continue expanding our slot catalogue with top-tier Pragmatic Play titles like Sweet Rush Bonanza. Play on desktop or mobile and experience the iconic candy-slot formula reimagined with bigger multipliers and deeper bonus potential."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Sweet Rush Bonanza Game Features",
+                        "description": "<h2>Sweet Rush Bonanza: Complete Gameplay Mechanics & Feature Guide<\/h2>\n\n<p>Sweet Rush Bonanza by Pragmatic Play is more than just another candy-themed slot — it's the ultimate fusion of two of the studio's most iconic gaming titles. By combining the Pay Anywhere cluster mechanics of Sweet Bonanza with the multiplier grid system of Sugar Rush, Pragmatic Play has created an online slot that packs genuine innovation within a proven formula. Whether you're a long-time fan of either original game or discovering this high-volatility slot machine for the first time, understanding the full depth of its mechanics will dramatically enhance every session you spend on this thrilling reel experience.<\/p>\n\n<p>The game runs on a <strong>6x5 grid layout<\/strong>, which provides 30 symbol positions across six reels and five rows. Unlike traditional payline-based slots, Sweet Rush Bonanza operates on a <strong>Pay Anywhere<\/strong> system — there are no fixed paylines or directions to follow. Instead, a win is awarded whenever <strong>8 or more matching symbols<\/strong> appear simultaneously anywhere on the grid. This freedom of placement dramatically increases winning opportunities and keeps the action flowing naturally with every single spin. The slot is built on HTML5 technology, making it fully compatible with all modern devices — desktop computers, tablets, and smartphones alike.<\/p>\n\n<h3>The Tumble (Avalanche \/ Cascade) Mechanic<\/h3>\n\n<p>Every win in Sweet Rush Bonanza activates the <strong>Tumble Feature<\/strong>, inherited directly from both Sweet Bonanza and Sugar Rush. The moment a winning cluster is identified, all contributing symbols are removed from the grid instantly. The remaining symbols then fall downward into the vacant positions, while new symbols rain in from above to fill the gaps. If these newly settled symbols create additional winning clusters — another cascade triggers. This chain reaction continues until no new wins can be formed, giving players the chance to build impressive combo streaks from a single initial spin.<\/p>\n\n<p>The Tumble Feature is the engine that powers everything else in the game. Without cascades, the multiplier grid would remain static and silent. It is through consecutive tumbles that multiplier spots awaken, stack, and ultimately deliver the kind of massive payouts that Sweet Rush Bonanza is capable of producing. High-volatility slots like this one reward patience, and the cascading mechanic perfectly rewards those extended winning chains with exponentially growing multipliers.<\/p>\n\n<h3>Multiplier Spots — The Core Innovation<\/h3>\n\n<p>The <strong>Multiplier Spots Feature<\/strong> is where Sweet Rush Bonanza truly distinguishes itself and justifies its position as a fresh evolution of the franchise. Every time a winning symbol disappears from the grid during a tumble, it leaves a permanent mark on that specific grid position. This mark becomes a <strong>Multiplier Spot<\/strong>. If another winning symbol subsequently explodes on that same marked position, the multiplier activates at a starting value of <strong>x2<\/strong>.<\/p>\n\n<p>Each subsequent win on that same position causes the multiplier to double — from x2 to x4, then x8, x16, x32, x64, and ultimately reaching the maximum of <strong>x128<\/strong>. When multiple Multiplier Spots participate in a single winning cluster, their values are <strong>combined together<\/strong>, meaning the total applied multiplier can reach extraordinary levels. In the base game, all multiplier spots are reset between spins, preserving the slot's high-volatility, high-reward nature. The real excitement begins in the Free Spins round, where these multipliers persist and continue to grow across the entire bonus.<\/p>\n\n<h3>Free Spins Round — How to Trigger It<\/h3>\n\n<p>The Scatter symbol in Sweet Rush Bonanza is the instantly recognisable <strong>pink lollipop<\/strong>. Landing <strong>4 or more Scatters<\/strong> anywhere on the 6x5 grid during a base game spin awards <strong>10 Free Spins<\/strong>. This is the key difference from Sugar Rush, which required only 3 Scatters — a change that makes natural triggers somewhat rarer and increases the game's overall volatility profile.<\/p>\n\n<p>The critical upgrade in the Free Spins round compared to the base game is that <strong>Multiplier Spots do not reset after each tumble<\/strong>. They remain active and continue building throughout the entire bonus round. This persistence transforms the bonus into a snowball machine — early multipliers build on themselves spin after spin, and by the later stages of a well-run bonus, the grid can be covered in high-value multiplier positions. Additionally, landing <strong>4 or more Scatters<\/strong> during the bonus awards <strong>10 extra free spins<\/strong>, extending the snowball even further.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Base Trigger:<\/strong> 4+ pink lollipop Scatters on any base spin awards 10 Free Spins with persistent multipliers.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Retrigger:<\/strong> Landing 4+ Scatters during the bonus round awards 10 additional free spins on top of remaining spins.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Multiplier Persistence:<\/strong> All Multiplier Spots built during the bonus remain active for the full duration, compounding with every cascade.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Max Multiplier:<\/strong> Individual positions cap at x128, but combined spot values can stack to produce much higher effective multipliers on winning clusters.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Maximum Win:<\/strong> The overall game cap sits at <strong>5,000x your stake<\/strong>, achievable primarily through high-multiplier free spins chains.<\/li>\n<\/ul>\n\n<h3>Ante Bet Options — Three Ways to Hunt Free Spins<\/h3>\n\n<p>One of Sweet Rush Bonanza's most unique features is its <strong>triple Ante Bet system<\/strong> — a significant upgrade over the simple toggle found in most competitors. Rather than a single on\/off extra bet, Pragmatic Play provides three distinct Ante Bet tiers, each offering a different relationship between cost and reward.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Standard Ante Bet (3x stake per spin):<\/strong> Boosts free spins frequency by 10x and reduces the Scatter requirement from 4 down to 3, making bonus triggers significantly more common for players who want more frequent access to the bonus round.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Super Spin 1 (20x stake per spin):<\/strong> Every single spin in this mode begins with random multiplier spots pre-loaded across the grid, giving every spin a boosted multiplier foundation before any cascades begin.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Super Spin 2 (250x stake per spin):<\/strong> The most powerful Ante Bet option. Every spin starts with the <strong>entire 6x5 grid<\/strong> pre-filled with x32 multiplier spots on every position — an explosive setup that can lead to extraordinary multiplier combinations on even a single winning cascade.<\/li>\n<\/ul>\n\n<p>These Ante Bet options give players genuine strategic control over their session pacing and risk appetite. Casual players can enjoy the base game or use the standard Ante Bet for a reasonable boost. High rollers seeking maximum excitement can unlock Super Spin 2 for a thrilling, high-stakes candy experience unlike anything available in the original two games.<\/p>\n\n<h3>Bonus Buy Feature<\/h3>\n\n<p>For players who prefer to skip the base game entirely and head straight for the action, Sweet Rush Bonanza offers two <strong>Bonus Buy<\/strong> options. These instant-access features are available in jurisdictions where Bonus Buy is permitted and give players direct entry into the enhanced bonus modes.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Standard Free Spins Buy (100x stake):<\/strong> Instantly triggers the standard 10 Free Spins round with persistent multipliers, bypassing the base game and delivering direct bonus access at a cost of 100x the current bet level.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Super Free Spins Buy (500x stake):<\/strong> The premium buy option. This activates a special Free Spins round where <strong>every single grid position starts pre-loaded with a x2 multiplier spot<\/strong>, giving the bonus an immediately powerful multiplier foundation that can snowball to remarkable heights across multiple cascades and spins.<\/li>\n<\/ul>\n\n<p>The Bonus Buy feature makes Sweet Rush Bonanza an especially appealing choice for experienced online slot players who understand the game's mechanics and wish to maximise their time within the bonus round itself. At 500x, the Super Free Spins buy is a significant investment, but the pre-loaded x2 grid provides a genuinely premium starting point for multiplier accumulation.<\/p>\n\n<h3>Symbol Types & Paytable<\/h3>\n\n<p>Sweet Rush Bonanza's symbol set is a delightful mashup drawn from both original games. The grid is populated with a colourful collection of candies, jelly bears inherited from Sugar Rush, and the classic fruit symbols from Sweet Bonanza — all blended together across the candyland background that fans of either game will immediately recognise. Higher-value symbols pay more generously per cluster, while lower-value symbols appear more frequently.<\/p>\n\n<p>The pink lollipop serves as the Scatter and is the most valuable symbol to watch for. Winning combinations require a minimum of 8 matching symbols anywhere on the 6x5 grid, and larger clusters naturally award higher payouts. The Pay Anywhere system ensures that every position on the grid matters equally — there are no \"dead zones\" where a symbol is wasted, which keeps every spin genuinely engaging and every tumble sequence potentially rewarding.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #377acc;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Feature<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Detail<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Value<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #d18cda;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\"><strong>Grid<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">Layout<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">6x5 (30 positions)<\/td>\n    <\/tr>\n    <tr style=\"background-color: #c479ce;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\"><strong>Betways<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">Win System<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">Pay Anywhere (8+)<\/td>\n    <\/tr>\n    <tr style=\"background-color: #d18cda;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\"><strong>Multiplier<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">Max per spot<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">x128<\/td>\n    <\/tr>\n    <tr style=\"background-color: #c479ce;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\"><strong>Free Spins<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">Trigger<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">4+ Scatters → 10 FS<\/td>\n    <\/tr>\n    <tr style=\"background-color: #d18cda;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\"><strong>Ante Bet 1<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">Cost<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">3x stake\/spin<\/td>\n    <\/tr>\n    <tr style=\"background-color: #c479ce;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\"><strong>Super Spin 1<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">Cost<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">20x stake\/spin<\/td>\n    <\/tr>\n    <tr style=\"background-color: #d18cda;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\"><strong>Super Spin 2<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">Cost<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">250x stake\/spin<\/td>\n    <\/tr>\n    <tr style=\"background-color: #c479ce;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\"><strong>Bonus Buy FS<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">Cost<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">100x stake<\/td>\n    <\/tr>\n    <tr style=\"background-color: #d18cda;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\"><strong>Super FS Buy<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">Cost<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">500x stake<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Theme, Graphics & Audio<\/h3>\n\n<p>Sweet Rush Bonanza immerses players in a vibrant <strong>candyland world<\/strong> that fans of both Sweet Bonanza and Sugar Rush will instantly feel at home in. Pragmatic Play blended both visual identities seamlessly — the familiar pastel-coloured backdrop, the candy-strewn environment, and the joyful, upbeat soundtrack all combine to create a cohesive and entertaining atmosphere. The production quality, as expected from Pragmatic Play, is top-notch: sharp HD graphics, fluid animations during tumble sequences, and satisfying visual feedback on every cascade and multiplier activation. Whether you're spinning on a large desktop monitor or a compact mobile screen, the visual experience remains consistently polished and engaging.<\/p>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "RTP, Volatility & How to Play",
+                        "description": "<h2>Sweet Rush Bonanza RTP, Volatility, Betting Range & Strategy Guide<\/h2>\n\n<p>Understanding the mathematical model behind Sweet Rush Bonanza is essential for any player who wants to approach this high-volatility slot with confidence. Developed by Pragmatic Play — one of the most respected and prolific software studios in the online gaming industry — Sweet Rush Bonanza is built on a transparent, independently certified RNG system. Every spin's outcome is completely random, unpredictable, and fair. The game's statistics are publicly disclosed, giving players full visibility into what to expect in terms of frequency, payout potential, and session dynamics before they invest a single cent.<\/p>\n\n<p>This in-depth guide covers every key metric you need to know: RTP settings, volatility class, hit rate, stake ranges, the impact of Ante Bet options on the maths, and practical strategies to tailor your play style. Whether you're a cautious slots player who prefers lower-risk sessions or an experienced high-roller hunting massive multiplier chains, Sweet Rush Bonanza's flexible structure accommodates a wide range of approaches. Let's break down the numbers in full.<\/p>\n\n<h3>What Is the RTP of Sweet Rush Bonanza?<\/h3>\n\n<p>Sweet Rush Bonanza offers <strong>three different RTP configurations<\/strong>, which is a defining characteristic of many modern Pragmatic Play slot titles. The three available Return to Player settings are <strong>94.5%<\/strong>, <strong>95.5%<\/strong>, and the highest option of <strong>96.5%<\/strong>. The specific RTP you encounter when playing depends entirely on how the hosting casino has configured the game on their platform.<\/p>\n\n<p>The industry standard benchmark for online video slots is typically around 96%, and the top setting of 96.5% comfortably meets that expectation. However, players should always check the game's information panel within the specific casino they are playing at to confirm which RTP configuration is active. The difference between 94.5% and 96.5% may appear small, but over a long session with many spins, that 2% gap has a meaningful impact on theoretical return performance. We strongly recommend always seeking out casinos that offer Sweet Rush Bonanza at its maximum 96.5% RTP setting.<\/p>\n\n<h3>Volatility: High-Risk, High-Reward Slot<\/h3>\n\n<p>Sweet Rush Bonanza is officially rated as a <strong>5\/5 Very High Volatility<\/strong> slot by Pragmatic Play. This classification means several things in practical terms: wins arrive less frequently in the base game, but when the game does pay — particularly during the Free Spins bonus — the returns can be dramatic. The multiplier grid system is precisely what drives this dynamic. In low-volatility slots, small wins trickle in constantly. In Sweet Rush Bonanza, the session rhythm is defined by longer dry stretches punctuated by explosive cascade sequences where multipliers stack and compound across multiple tumbles.<\/p>\n\n<p>High-volatility gameplay requires a different mental approach and bankroll management strategy compared to low or medium variance slots. Players should expect variance and be prepared to weather extended periods without significant base game wins. The payoff for that patience comes when the bonus round triggers and multiplier spots begin accumulating — at that point, the game's snowball potential becomes genuinely breathtaking. The maximum win cap of <strong>5,000x your stake<\/strong> sets the ceiling, but the journey to that peak is the real source of excitement.<\/p>\n\n<h3>Hit Frequency & Base Game Win Rate<\/h3>\n\n<p>Despite its very high volatility rating, Sweet Rush Bonanza offers a <strong>base game hit rate of 26.60%<\/strong>. This means players can statistically expect to land a winning spin approximately once every <strong>3.76 spins<\/strong>. For a high-variance slot, this is a reasonably active base game — wins appear often enough to maintain engagement, even if many of those base game payouts are relatively modest by themselves.<\/p>\n\n<p>The picture changes significantly when it comes to the Free Spins bonus. Natural triggers are rare, with the bonus round activating approximately <strong>once every 445.26 base spins<\/strong> without any Ante Bet assistance. This low natural frequency is the primary driver of the game's very high volatility classification. The four Scatters requirement (versus three in Sugar Rush) is a deliberate design choice that makes each bonus trigger feel genuinely earned and each Free Spins session feel precious. Activating the standard Ante Bet at 3x stake cost provides a 10x boost to trigger frequency — a significant trade-off that experienced players may find worthwhile for extended sessions.<\/p>\n\n<h3>Betting Range — Stakes for Every Player Type<\/h3>\n\n<p>Sweet Rush Bonanza offers a flexible betting structure that caters to a wide spectrum of online slot players, from budget-conscious casual spinners to dedicated high-stakes enthusiasts. In standard base game mode, the <strong>minimum bet is €0.20 per spin<\/strong> and the <strong>maximum is €240 per spin<\/strong>. This range covers the vast majority of player bankroll sizes comfortably.<\/p>\n\n<p>When Ante Bet options are activated, the effective cost per spin scales significantly. At the Super Spin 2 level of 250x the base bet, a player spinning at the maximum base stake would be committing €60,000 per spin — a level reserved exclusively for the highest of high rollers. More practically, Super Spin 2 becomes an exciting option for mid-range players spinning at the minimum stake, where the effective cost would be €50 per spin (250 x €0.20) for the fully pre-loaded x32 multiplier grid experience.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #377acc;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Mode<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #d18cda;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\"><strong>Base Game<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">€0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">€240<\/td>\n    <\/tr>\n    <tr style=\"background-color: #c479ce;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\"><strong>Ante Bet (3x)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">€0.60<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">€720<\/td>\n    <\/tr>\n    <tr style=\"background-color: #d18cda;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\"><strong>Super Spin 1 (20x)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">€4.00<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">€4,800<\/td>\n    <\/tr>\n    <tr style=\"background-color: #c479ce;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\"><strong>Super Spin 2 (250x)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">€50.00<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">€60,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #d18cda;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\"><strong>Bonus Buy FS<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">€20 (100x €0.20)<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">€24,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #c479ce;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\"><strong>Super FS Buy (500x)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">€100 (500x €0.20)<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #000000;\">€120,000<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Sweet Rush Bonanza vs. Its Predecessors<\/h3>\n\n<p>How does Sweet Rush Bonanza compare to the two iconic slots it is built upon? While both Sweet Bonanza and Sugar Rush are legendary titles in their own right, Sweet Rush Bonanza introduces a meaningfully evolved experience through its unique combination of their signature systems. The Pay Anywhere cluster mechanic from Sweet Bonanza ensures wins feel natural and grid-wide, while the persistent multiplier grid from Sugar Rush adds the exponential growth element that makes bonus rounds so explosive. Neither predecessor featured both simultaneously — their combination in Sweet Rush Bonanza creates a more dynamic and mathematically potent system than either original alone.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>vs. Sweet Bonanza:<\/strong> Sweet Rush Bonanza adds the multiplier grid system absent in Sweet Bonanza, giving the free spins round significantly greater multiplier accumulation potential. Sweet Bonanza uses rainbow symbols as high multipliers during Free Spins; Sweet Rush Bonanza builds multipliers organically through cascades instead.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>vs. Sugar Rush:<\/strong> Sweet Rush Bonanza adopts Sugar Rush's multiplier grid but raises the Scatter trigger requirement from 3 to 4 symbols, increasing base game volatility. The Pay Anywhere 8+ cluster system from Sweet Bonanza replaces Sugar Rush's payline structure.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Max Win:<\/strong> All three titles feature a 5,000x maximum win cap, maintaining consistency across the franchise while the underlying mechanics differ.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>RTP:<\/strong> All three games offer a top RTP of 96.5% at their highest configuration, ensuring fair and consistent long-term return rates across the franchise.<\/li>\n<\/ul>\n\n<h3>Responsible Gaming & How to Play Wisely<\/h3>\n\n<p>Sweet Rush Bonanza is a high-volatility online slot and, as such, it carries an inherently higher risk profile than low or medium variance games. We encourage all players to approach every session with a pre-set budget and a clear understanding of the game's statistical profile. Set a session bankroll that you are fully comfortable losing before you begin, and never chase losses by increasing stakes beyond your planned limits.<\/p>\n\n<p>The game's built-in flexibility — with multiple Ante Bet tiers and Bonus Buy options — can make it tempting to escalate spending quickly. While these features provide genuine strategic value, they should always be used within the boundaries of responsible bankroll management. All reputable online casinos offer responsible gambling tools including deposit limits, loss limits, session time reminders, and self-exclusion options. We strongly encourage all players to make use of these tools and to treat Sweet Rush Bonanza as a form of premium entertainment, enjoyed within sensible personal boundaries.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Set a session budget<\/strong> before you start and stick to it regardless of outcomes — both winning and losing streaks are natural in high-volatility slots.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Use Ante Bet wisely<\/strong> — the standard 3x Ante Bet is the most cost-efficient way to increase bonus frequency; Super Spin options are best reserved for shorter, high-intensity sessions with appropriate bankrolls.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Try the free demo first<\/strong> — practising in free play mode before wagering real money is the most effective way to understand the game's rhythm, feature triggers, and multiplier mechanics.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Understand the bonus frequency<\/strong> — with a natural trigger rate of 1 in ~445 spins, patience is required. Manage expectations accordingly and never play solely in anticipation of frequent free spins triggers.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Play at casinos with 96.5% RTP<\/strong> — always verify the configured RTP in the game's paytable within the specific casino you are using, and prioritise platforms offering the highest available setting.<\/li>\n<\/ul>"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "What is the RTP of Sweet Rush Bonanza?",
+                            "answer": "Sweet Rush Bonanza has three RTP settings: 94.5%, 95.5%, or 96.5%, depending on the casino's configuration. We recommend always playing at casinos offering the top 96.5% setting. Check the game's info panel within the casino to confirm the active RTP before playing."
+                        },
+                        {
+                            "title": "How do I trigger Free Spins in Sweet Rush Bonanza?",
+                            "answer": "Land 4 or more pink lollipop Scatter symbols anywhere on the 6x5 grid to trigger 10 Free Spins. Activate the standard Ante Bet at 3x your stake to reduce the requirement to 3 Scatters, boosting bonus frequency by 10x. Extra spins retrigger by landing 4+ Scatters during the bonus."
+                        },
+                        {
+                            "title": "What is the maximum win in Sweet Rush Bonanza?",
+                            "answer": "The maximum win in Sweet Rush Bonanza is 5,000x your stake. This is achievable primarily through the Free Spins bonus round, where multiplier spots persist and stack across all cascades. At a €1 bet, the maximum win would equal €5,000 in a single bonus session."
+                        },
+                        {
+                            "title": "How does the Multiplier Spots feature work?",
+                            "answer": "Each time a winning symbol disappears in a tumble, it marks that grid position as a Multiplier Spot starting at x2. Subsequent wins on the same spot double the multiplier — x2, x4, x8 up to x128. Multiple active spots combine their values on shared winning clusters, creating massive payouts."
+                        },
+                        {
+                            "title": "Can I buy the bonus round directly in this slot?",
+                            "answer": "Yes — Sweet Rush Bonanza offers two Bonus Buy options where permitted. Standard Free Spins cost 100x your stake and trigger the regular bonus. Super Free Spins cost 500x your stake and start with every grid position pre-loaded with a x2 multiplier spot for maximum snowball potential."
+                        },
+                        {
+                            "title": "What is the volatility of Sweet Rush Bonanza?",
+                            "answer": "Sweet Rush Bonanza is rated Very High Volatility (5\/5) by Pragmatic Play. The base game hit frequency is 26.60% — roughly one win every 3.76 spins — but Free Spins trigger naturally only once every ~445 spins, making bonus rounds rare and highly rewarding when they land."
+                        },
+                        {
+                            "title": "What are the Ante Bet options in Sweet Rush Bonanza?",
+                            "answer": "Three Ante Bet tiers are available: Standard Ante Bet at 3x stake boosts Free Spins frequency 10x; Super Spin 1 at 20x stake pre-loads random multipliers on every spin; Super Spin 2 at 250x stake starts every spin with the full grid covered in x32 multiplier spots."
+                        },
+                        {
+                            "title": "Is Sweet Rush Bonanza available on mobile?",
+                            "answer": "Yes — Sweet Rush Bonanza is built on HTML5 and JavaScript technology, making it fully compatible with all modern smartphones and tablets. The game runs directly in your mobile browser with no app download required, delivering the same full-feature experience as on desktop."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

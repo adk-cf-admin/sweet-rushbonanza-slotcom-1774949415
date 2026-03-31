@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://sweet-rushbonanza-slot.com/
+Sitemap: https://sweet-rushbonanza-slot.com/sitemap.xml

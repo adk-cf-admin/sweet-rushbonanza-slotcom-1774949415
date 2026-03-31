@@ -1,0 +1,19 @@
+{
+  "name": "Sweet Rush Bonanza",
+  "short_name": "Sweet Rush Bonanza",
+  "theme_color": "",
+  "background_color": "#d88bd3",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1774948860-sweet-rush-bonanza-1.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
